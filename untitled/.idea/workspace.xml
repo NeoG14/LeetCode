@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c1dfaed-17ac-4e56-8c77-9a1ce2e9dd8f" name="Changes" comment="Exercise 1829" />
+    <list default="true" id="8c1dfaed-17ac-4e56-8c77-9a1ce2e9dd8f" name="Changes" comment="Exercise 1829">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solutions/Ej_1829_Find_the_Winner_of_the_Circular_Game/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solutions/Ej_1829_Find_the_Winner_of_the_Circular_Game/Solution1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720477705500</updated>
-      <workItem from="1720477706832" duration="9569000" />
+      <workItem from="1720477706832" duration="9255000" />
     </task>
     <task id="LOCAL-00001" summary="Exercise 1829">
       <option name="closed" value="true" />
@@ -134,15 +136,7 @@
       <option name="project" value="LOCAL" />
       <updated>1720487446571</updated>
     </task>
-    <task id="LOCAL-00004" summary="Exercise 1829">
-      <option name="closed" value="true" />
-      <created>1720487620569</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1720487620569</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
